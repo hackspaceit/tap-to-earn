@@ -9,11 +9,11 @@ error_reporting(0);
 
 
 //Your Api key
-$apiKey = 'your_telegram_api_key';
+$apiKey = '7885508304:AAHOy3Cd8ElhEWkzDtkNAnDC88gMgAKEl3I';
 //Your bot name
-$botUsername = 'my_bot_name';
+$botUsername = 'NounsClayBot';
 //Your domain name
-$web_app = 'https://yoururlhere.com';
+$web_app = 'https://nounsclay.vercel.app';
 //Youd database info
 $DB = [
 'dbname' => 'your_database',
