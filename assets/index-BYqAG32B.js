@@ -15981,9 +15981,9 @@ const ND = ()=>{
 }
 ;
 var jt = {
-    VITE_API_URL: "https://your-url.com/api",
+    VITE_API_URL: "https://nounsclay.vercel.app/api",
     VITE_GA_ID: "G-BCZKLGL3D0",
-    VITE_BOT_NAME: "your_tap_bot",
+    VITE_BOT_NAME: "NounsClayBot",
     BASE_URL: "/",
     MODE: "production",
     DEV: !1,
